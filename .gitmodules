@@ -1,0 +1,3 @@
+[submodule "repo_nested"]
+	path = repo_nested
+	url = https://github.com/mukulkapoor01-new/repo_nested.git
